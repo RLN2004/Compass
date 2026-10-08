@@ -230,7 +230,6 @@ class MainActivity : Activity(), SensorEventListener {
             text.color = color
             text.textSize = size
             text.textAlign = align
-            text.letterSpacing = spacing
             c.drawText(value, x, y, text)
         }
 
