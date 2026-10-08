@@ -3,6 +3,7 @@
     <application
         android:allowBackup="false"
         android:label="Compass Lite"
+        android:icon="@drawable/ic_compass"
         android:theme="@android:style/Theme.Material.Light.NoActionBar"
         android:supportsRtl="true">
         <activity
